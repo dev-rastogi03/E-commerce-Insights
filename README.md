@@ -140,13 +140,13 @@ Created **3 interactive dashboards**:
 
 ##  Dashboard Preview
 
-### 🔹 Executive Dashboard
+###  Executive Dashboard
 ![Executive Dashboard](images/dashboard1.png)
 
-### 🔹 Customer Insights
+###  Customer Insights
 ![Customer Insights](images/dashboard2.png)
 
-### 🔹 Sales & Product Insights
+###  Sales & Product Insights
 ![Sales & Product Insights](images/dashboard3.png)
 
 
